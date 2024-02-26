@@ -1,4 +1,30 @@
 /*reglas generales*/
+html {
+    font-size: 10px;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+
+}
+
+h1 {
+    font-size: 5rem;
+}
+h2, h3 {
+    font-size: 4rem;
+}
+h1, h2, h3 {
+    font-family: "Playfair", serif;
+}
+
+.hero img{
+    width: 1200px;
+    height: 320px;
+}
 
 /*Media Query*/
 
