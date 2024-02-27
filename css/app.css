@@ -25,6 +25,7 @@ body {
 nav {
     padding-left: 8px;
     padding-right: 4px;
+    padding-bottom: 6px;
 }
 
 .navbar-nav {
@@ -70,6 +71,7 @@ main {
     border: 1px solid #ccc;
     border-radius: 0.5em;
     height: 50vh;
+    
     
 }
 
@@ -158,3 +160,5 @@ main {
 
 /** Productos */
 
+
+    
