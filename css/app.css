@@ -11,6 +11,11 @@ body {
 
 }
 
+.navbar-nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
 h1 {
     font-size: 5rem;
 }
